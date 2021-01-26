@@ -1,4 +1,4 @@
-# laslesvpn-landing
+# GeoTracker App
 
 ## Project setup
 ```
